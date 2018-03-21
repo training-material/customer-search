@@ -1,4 +1,14 @@
-# Search
+# Cusomer Search :
+
+   Search Results are comming from back-end microservice. In default it will show all results . Search box will narrow down the search results.
+
+URI : https://customer-ui-demo.cfapps.io/
+
+![alt text](https://github.com/training-material/customer-search/blob/master/search.PNG)<br />
+
+# PCF Deployment : 
+
+cf push customer  --hostname cfapps.io -b staticfile_builpack
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
 
