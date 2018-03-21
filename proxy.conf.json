@@ -1,0 +1,9 @@
+{
+	"/": {
+		"target": "https://customer-service-demo.cfapps.io",
+
+		"secure": false,
+		"changeOrigin": true
+	}
+}
+
